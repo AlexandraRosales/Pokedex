@@ -77,8 +77,10 @@ Reflexión: Con este código aprendí a usar la librería requests, json y os y 
 Aquí dejó las imágenes del código compilado y la imagen del pokemón :).
 
 ![codigo](https://github.com/AlexandraRosales/Pokedex/assets/89891121/1781d1ac-eec3-4553-99a5-ad8b94fc001a)
+![codigo1](https://github.com/AlexandraRosales/Pokedex/assets/89891121/cee7ec60-db54-4295-95aa-017ab47a2e32)
+![codigo1](https://github.com/AlexandraRosales/Pokedex/assets/89891121/bd2053c2-76cf-46dd-9bde-9db09cca4738)
+![codigo2](https://github.com/AlexandraRosales/Pokedex/assets/89891121/f1f2681b-9ee4-4e84-9c81-1fd3fc4f96d6)
+![codigo2](https://github.com/AlexandraRosales/Pokedex/assets/89891121/e67ecbf1-647e-43ed-8655-4da3b7bebfa9)
+![codigo3](https://github.com/AlexandraRosales/Pokedex/assets/89891121/09ebd7c7-ef1c-41ce-80a5-68138a9e6b27)
 
-![codigo2](https://github.com/AlexandraRosales/Pokedex/assets/89891121/c7355818-6f34-4bcf-b90d-9f966dfebd5e)
-![codigo1](https://github.com/AlexandraRosales/Pokedex/assets/89891121/bb8b7d4b-b39b-4603-8b64-d9472aead987)
-
-![codigo3](https://github.com/AlexandraRosales/Pokedex/assets/89891121/5bbb76c2-5184-48be-99be-7b00164effaa)
+![130](https://github.com/AlexandraRosales/Pokedex/assets/89891121/69065d05-01c4-4edb-8171-0cceec7dc34f)
