@@ -80,8 +80,9 @@ def obtener_datos_pokemon(nombre):
 Con este código aprendí a usar la librería requests, json y os y el usar archivos HTTPP, a pesar de tener dificultades para poder compilar el código y se muestre la información correctamente, ya que en Visual Studio Code no podía acceder a la consola, descargué el editor de código Spyder donde logré acceder y editar de manera más fluida.
 Aquí dejó las imágenes del código compilado y la imagen del pokemón :).
 
+![130](https://github.com/AlexandraRosales/Pokedex/assets/89891121/69065d05-01c4-4edb-8171-0cceec7dc34f)
 ![codigo](https://github.com/AlexandraRosales/Pokedex/assets/89891121/1781d1ac-eec3-4553-99a5-ad8b94fc001a)
 ![codigo1](https://github.com/AlexandraRosales/Pokedex/assets/89891121/cee7ec60-db54-4295-95aa-017ab47a2e32)
 ![codigo2](https://github.com/AlexandraRosales/Pokedex/assets/89891121/e67ecbf1-647e-43ed-8655-4da3b7bebfa9)
 ![codigo3](https://github.com/AlexandraRosales/Pokedex/assets/89891121/09ebd7c7-ef1c-41ce-80a5-68138a9e6b27)
-![130](https://github.com/AlexandraRosales/Pokedex/assets/89891121/69065d05-01c4-4edb-8171-0cceec7dc34f)
+
