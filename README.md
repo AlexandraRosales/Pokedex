@@ -1,6 +1,6 @@
 # Pokedex
 
-   #Librería para hacer peticiones HTTP.
+#Librería para hacer peticiones HTTP.
 import requests
 #Librería para trabajar con datos en formato JSON.
 import json
@@ -14,9 +14,9 @@ def obtener_datos_pokemon(nombre):
 #Hacemos la petición HTTP GET a la url y almacena la respuesta en la variable respuesta.
     respuesta = requests.get(url)
     
-# Comprobamos la petición fue exitosa.
+#Comprobamos la petición fue exitosa.
     if respuesta.status_code == 200:
-# Convierte la respuesta JSON en un diccionario de python y la guarda en la variable data.
+#Convierte la respuesta JSON en un diccionario de python y la guarda en la variable data.
         data = respuesta.json()
 
   #Agregamos la url de la imagen  del Pokémon que se quiere consultar.
